@@ -25,5 +25,5 @@ Le modèle BEKK permet :
 Pas encore disponible via pip. Clonez simplement le repo :
 
 ```bash
-git clone https://github.com/ton-nom/be...
+git clone https://github.com/Yaskoi/BEKK-Garch-Library-Python/yassine.py
 cd bekk-garc
